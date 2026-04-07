@@ -1,0 +1,22 @@
+body{
+    background-color: brown;
+    font-family: arial;
+}
+header{
+    background-color: blue;
+    padding: 15px;
+}
+nav{
+    background-color: blueviolet;
+    padding: 13px;
+}
+nav a{
+    color:bisque;
+    margin:11px;
+}
+footer{
+    background-color: mediumspringgreen;
+    color: rgb(161, 24, 224);
+    text-align: center;
+    
+}
